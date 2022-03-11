@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mariacarolinaboabaid
+- 👀 I’m interested in learning Software Engineer
+- 🌱 I’m currently learning Python
+- 📫 How to reach me carolkboabaid@gmail.com
