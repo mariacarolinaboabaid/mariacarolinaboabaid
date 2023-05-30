@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariacarolinaboabaid
-- 👀 I’m interested in learning Software Engineer
-- 🌱 I’m currently learning Python, HTML, CSS e JavaScript.
+- 👋 Hi, I’m @mariacarolinaboabaid.
+- 👀 I’m interested in Learning Software Engineering.
+- 🌱 I’m currently learning Computer Science and Full Stack Development.
 - 📫 How to reach me carolkboabaid@gmail.com
